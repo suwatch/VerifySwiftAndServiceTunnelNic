@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifySwiftAndServiceTunnelNic", "VerifySwiftAndServiceTunnelNic.csproj", "{BE26A640-0F84-48B7-91E1-D8FED16B6590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE26A640-0F84-48B7-91E1-D8FED16B6590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE26A640-0F84-48B7-91E1-D8FED16B6590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE26A640-0F84-48B7-91E1-D8FED16B6590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE26A640-0F84-48B7-91E1-D8FED16B6590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E6F8AD-9C2E-4655-B11A-F5539F8B71E7}
+	EndGlobalSection
+EndGlobal
